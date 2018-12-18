@@ -13287,11 +13287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\My projects\\dotnetcore\\CORE.API\\CORE.API.csproj",
-      "projectName": "CORE.API",
-      "projectPath": "D:\\Project\\My projects\\dotnetcore\\CORE.API\\CORE.API.csproj",
+      "projectUniqueName": "D:\\Project\\My projects\\dotnetcore\\CoreAPI\\CORE.API\\COREAPI.csproj",
+      "projectName": "COREAPI",
+      "projectPath": "D:\\Project\\My projects\\dotnetcore\\CoreAPI\\CORE.API\\COREAPI.csproj",
       "packagesPath": "C:\\Users\\abhinav.mishra\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\My projects\\dotnetcore\\CORE.API\\obj\\",
+      "outputPath": "D:\\Project\\My projects\\dotnetcore\\CoreAPI\\CORE.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

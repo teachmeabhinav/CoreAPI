@@ -12,7 +12,7 @@ namespace CORE.API.DBcontext
         {
              _db = client.GetDatabase(options.Value.Database);
             //  setCollection();
-            var aaa = _db.GetCollection<Product>("Products");
+            //var aaa = _db.GetCollection<Product>("Products");
         }
 
 
